@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://t.me/quicksbot">
+  <a href="https://t.me/klaymov">
     <img src="https://img.shields.io/badge/Telegram-5395FD" alt="LinkedIn Badge"/>
     <img src="https://komarev.com/ghpvc/?username=klaymov&style=flat-square&color=blue" alt=""/>
   </a>
