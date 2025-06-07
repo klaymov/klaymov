@@ -6,7 +6,7 @@
   <a href="https://t.me/klaymov">
     <img src="https://img.shields.io/badge/Telegram-5395FD" alt="LinkedIn Badge"/>
     <img src="https://komarev.com/ghpvc/?username=klaymov&style=flat-square&color=blue" alt=""/>
-    <img src="https://wakatime.com/badge/user/57963a44-3773-476a-aaec-447b4124a1d2/project/7f2917a6-f993-4b66-9409-0bfd829dfdab.svg" alt=""/>
+    <img src="https://wakatime.com/badge/user/57963a44-3773-476a-aaec-447b4124a1d2.svg" alt=""/>
   </a>
 </div>
 
