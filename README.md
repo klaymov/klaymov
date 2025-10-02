@@ -31,7 +31,4 @@ My name is **Serhii**, I am **19 years old**, I live in **Ukraine**, and I am co
 ![Streak](https://streak-stats.demolab.com?user=klaymov&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3)  
 
 
-![Footer](https://capsule-render.vercel.app/api?type=rect&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark)  
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
