@@ -1,6 +1,6 @@
 <div align="center">
 
-# <div align="center">💻 Python Full-Stack Developer</div>
+# <div align="center">💻 Python / Full-Stack Developer</div>
 
 <div align="center">
 
