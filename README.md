@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/klaymov) ![Views](https://komarev.com/ghpvc/?username=klaymov&style=for-the-badge&color=blue) ![Wakatime](https://wakatime.com/badge/user/f80ae27a-c328-426f-a381-bc84136e2dd6.svg?style=for-the-badge)
+[![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/klaymov) ![Views](https://komarev.com/ghpvc/?username=klaymov&style=for-the-badge&color=blue) ![Wakatime](https://wakatime.com/badge/user/57963a44-3773-476a-aaec-447b4124a1d2.svg?style=for-the-badge)
 
 </div>
 
