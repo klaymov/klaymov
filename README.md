@@ -8,7 +8,7 @@
 
 </div>
 
-I am a Python developer with over 2 years of experience.  
+I am a Python developer with over 3 years of experience.  
 I specialize in creating **Telegram bots**, **process automation**, and **web development**.  
 My name is **Serhii**, I am **19 years old**, I live in **Ukraine**, and I am constantly developing my skills.  
 
